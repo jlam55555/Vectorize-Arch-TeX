@@ -1,0 +1,8 @@
+# LaTeX intermediates
+*.bbl
+*.bcf
+*.blg
+*.log
+*.run.xml
+*.aux
+svg-inkscape/
